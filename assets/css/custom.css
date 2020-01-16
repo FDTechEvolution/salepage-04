@@ -6,12 +6,21 @@
 ้h1, h2 {
     font-family: 'athiti' !important;
 }
+
+.contact-display-inline-flex {
+    display: inline-flex;
+}
+.label-set-center-middle {
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
 .color-primary {
     color: #c37cc6;
 }
 .btn-primary {
-    background-color: #c37cc6;
-    border-color: #c37cc6;
+    background-color: #c37cc6 !important;
+    border-color: #c37cc6 !important;
 }
 .btn-primary:hover {
     background-color: #c348c8;
